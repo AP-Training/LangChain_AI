@@ -11,4 +11,5 @@
 - 實務練習
 
 #### 課程大綱
-- [1. 環境建置](http://AP-Training.github.io/LangChain_AI/0.0%20開發環境建置.slides.html)
+- [0. 環境建置](http://AP-Training.github.io/LangChain_AI/0.0%20開發環境建置.slides.html)
+- [1. 課程概要](http://AP-Training.github.io/LangChain_AI/0.%20課程概要.slides.html)
