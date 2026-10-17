@@ -18,3 +18,4 @@
 - [4. 提示詞模板與匿名執行單元](http://AP-Training.github.io/LangChain_AI/3.%20LangChain基礎_提示詞模板與匿名執行單元_Q.slides.html)
 - [5. 表達式語言與回呼系統介紹](http://AP-Training.github.io/LangChain_AI/4.%20LangChain基礎_表達式語言與回呼系統介紹_Q.slides.html)
 - [6. RAG 基礎](http://AP-Training.github.io/LangChain_AI/5.%20RAG基礎%20-%20技巧學習_Q.slides.html)
+- [7. RAG 實作](http://AP-Training.github.io/LangChain_AI/6.%20RAG實作_Q.slides.html)
