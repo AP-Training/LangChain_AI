@@ -19,3 +19,4 @@
 - [5. 表達式語言與回呼系統介紹](http://AP-Training.github.io/LangChain_AI/4.%20LangChain基礎_表達式語言與回呼系統介紹_Q.slides.html)
 - [6. RAG 基礎](http://AP-Training.github.io/LangChain_AI/5.%20RAG基礎%20-%20技巧學習_Q.slides.html)
 - [7. RAG 實作](http://AP-Training.github.io/LangChain_AI/6.%20RAG實作_Q.slides.html)
+- [8. Agent](http://AP-Training.github.io/LangChain_AI/7.%20Agent_Q.slides.html)
